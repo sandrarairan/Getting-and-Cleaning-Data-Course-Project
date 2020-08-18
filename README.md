@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## This repo explains how all of the scripts work and how they are connected
 
 1. load library dplyr  to use rename
@@ -116,3 +117,7 @@ Getting and Cleaning Data Course Project
 # Getting-and-Cleaning-Data-Course-Project
 Getting-and-Cleaning-Data-Course-Project
 >>>>>>> 35b3eca14e1671343b76e2b25cc62c59b6cf4807
+=======
+# Getting-and-Cleaning-Data-Course-Project
+Getting-and-Cleaning-Data-Course-Project
+>>>>>>> d8bbd3405607496219d2af524c7485ac3533f41b
